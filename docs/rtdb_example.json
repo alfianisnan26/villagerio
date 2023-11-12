@@ -1,0 +1,33 @@
+{
+    "games":{
+        "0000":{
+            "created_at":"unix_time",
+            "created_by":"user_id",
+            "session":{
+                "host":"user_id_host",
+                "users":{
+
+                }
+            },
+            "preferences":{
+                "availableRoles":{
+
+                }
+            },
+            "state":{
+                "game":{
+                    "phase":"",
+                    "timeout":""
+                },
+                "host":{
+
+                },
+                "users":{
+                    "user_id":{
+
+                    }
+                }
+            }
+        }
+    }
+}
